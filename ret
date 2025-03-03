@@ -1,0 +1,2 @@
+retries = 3
+slow-timeout = { period = "1800s", terminate-after
